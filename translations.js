@@ -19,13 +19,13 @@ var dict = {
     de: "Kontaktieren Sie uns auf Discord",
     fr: "Contactez-nous sur Discord"
   },
-  "option value": {
-    de: "Optionswert",
-    fr: "Valeur de option"
+  "Availability": {
+    de: "Verfügbarkeit",
+    fr: "Disponibilité"
   },
-  "Tooltip": {
-    de: "Werkzeughinweis",
-    fr: "Conseil de l'outil"
+  "User data including Server Data may be deleted at any time.": {
+    de: "Benutzerdaten einschließlich Serverdaten können jederzeit gelöscht werden.",
+    fr: "Les données de l'utilisateur, y compris les données du serveur, peuvent être supprimées à tout moment."
   }
 }
 
